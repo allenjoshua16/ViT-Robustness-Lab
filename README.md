@@ -24,7 +24,14 @@ ViT Robustness Lab helps users understand how Vision Transformer models respond 
 - Google Gemini API
 - Google AI Studio
 - Render
+- 
+## Contributors
 
+- Allen Joshua (Author)
+
+## Acknowledgments
+
+- Google AI Studio (Gemini) for AI-assisted development
 ## Project Structure
 
 ```bash
