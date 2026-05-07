@@ -1,0 +1,12 @@
+{
+  "name": "ViT Robustness Lab",
+  "description": "Interactive platform for exploring adversarial robustness in Vision Transformers (ViT). Analyze attention maps, apply attacks like FGSM/PGD, and evaluate model resilience.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Vision Analysis",
+    "Adversarial Attacks Simulation",
+    "Attention Map Visualization"
+  ]
+}
