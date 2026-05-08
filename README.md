@@ -38,6 +38,7 @@ ViT Robustness Lab helps users understand how Vision Transformer models respond 
 
 ```bash
 ViT-Robustness-Lab/
+├── Sample_images
 ├── src/
 ├── server.ts
 ├── index.html
