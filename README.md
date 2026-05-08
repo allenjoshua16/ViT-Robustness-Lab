@@ -1,20 +1,49 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ViT Robustness Lab
 
-# Run and deploy your AI Studio app
+An interactive AI-powered web application for exploring the robustness of Vision Transformers through attention map visualization and adversarial attack simulations.
 
-This contains everything you need to run your app locally.
+## Overview
 
-View your app in AI Studio: https://ai.studio/apps/82cf7ca5-08ba-46cc-8437-7af80d3092db
+ViT Robustness Lab helps users understand how Vision Transformer models respond to clean and perturbed images. The app provides a visual interface to study attention behavior, compare prediction confidence, and simulate robustness failures in a more interpretable way.
 
-## Run Locally
+## Key Features
 
-**Prerequisites:**  Node.js
+- Vision Transformer robustness analysis
+- Real-time attention map visualization
+- Adversarial attack simulation
+- Clean vs perturbed image comparison
+- AI-assisted explanations using Google AI Studio / Gemini
+- Interactive frontend built with React, Vite, and TypeScript
 
+## Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- React
+- TypeScript
+- Vite
+- Node.js / Express
+- Google Gemini API
+- Google AI Studio
+- Render
+
+## Contributors
+
+- Joshua Allen
+- Bhargav Amin
+- Somesh Zanwar
+
+## Acknowledgments
+
+- Google AI Studio (Gemini) for AI-assisted development
+
+## Project Structure
+
+```bash
+ViT-Robustness-Lab/
+├── src/
+├── server.ts
+├── index.html
+├── package.json
+├── vite.config.ts
+├── tsconfig.json
+├── .env.example
+└── README.md
