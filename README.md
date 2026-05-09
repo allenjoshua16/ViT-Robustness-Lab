@@ -27,9 +27,9 @@ ViT Robustness Lab helps users understand how Vision Transformer models respond 
 
 ## Contributors
 
-- Joshua Allen
-- Bhargav Amin
-- Somesh Zanwar
+- [Joshua Allen](https://github.com/allenjoshua16)
+- [Bhargav Amin](https://github.com/bhargav0504)
+- [Somesh Zanwar](https://github.com/SomeshZanwar)
 
 ## Acknowledgments
 
